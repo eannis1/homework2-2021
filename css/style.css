@@ -52,18 +52,13 @@ color: black;
 #yellow h2 {
 text-shadow: 4px 4px 2px #c7e2c7;
 }
-/* inline styling - need to do for h2 color and shadow and p color */
-}
 
 #green {
 background-color: #008000;
 text-align: left;
 }
 
-footer {
+footer p {
 text-align: center;
-padding-left: 0px;
-padding-top: 0px;
-padding-right: 10px;
-padding-bottom: 10px;
+padding: 0px 10px 10px 0px;
 }
